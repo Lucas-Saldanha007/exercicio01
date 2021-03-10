@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap');
+
+* {
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+}
+
+header{
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    color: white;
+    height: 5vh;
+    width: 100%;
+    background: rgb(31, 172, 228);
+}
+
+.txt-header{
+    margin: 0 auto;
+    text-shadow: 2px 3px 0px rgb(2, 2, 2);
+}
